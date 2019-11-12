@@ -25,7 +25,7 @@
 可以定义未来<br />  
 未来是什么<br />  
 未来由你定义<br />  
-# version 0.1 闹猫盾 Normal-doun
+# version 0.1 闹猫盾 Normal-Donation
 想法来自网友@魔幻海参<br />  
 成立闺蜜、好友或者团队的猫盾基金，<br />  
 互相之间闹矛盾，或者生气了<br />  
